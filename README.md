@@ -1,2 +1,2 @@
 # visual-lvm
-Visual LVM
+Visual LVM is a GUI based LVM management software developed by weLees., Ltd. It frees storage administrators from endless command line parameters. Visual LVM shows storage layout information based on their location on host physical storage device. At a glance you can see the relationship among the various objects. The vast majority of Visual LVM operations are performed with mouse clicking and dragging. Visual LVM will automatically calculate the available lower and upper limits when entering the dimensions. The wrong value cannot be set at all. For the setting of parameters, For the setting of various parameters, Visual LVM on the one hand describes the meaning of the parameters to the user in natural language.
